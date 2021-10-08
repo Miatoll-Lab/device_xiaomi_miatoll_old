@@ -70,18 +70,18 @@ void load_device_properties() {
     if (hwname == "curtana") {
         if (region == "Global_TWO") {
             set_device_props(
-                    "google/redfin/redfin:11/RQ3A.210905.001/7511028:user/release-keys",
-                    "redfin-user 11 RQ3A.210905.001 7511028 release-keys",
+                    "google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys",
+                    "redfin-user 11 RQ3A.211001.001 7641976 release-keys",
                     "Redmi", "curtana", "Redmi Note 9S");
         } else if (region == "India") {
             set_device_props(
-                    "google/redfin/redfin:11/RQ3A.210905.001/7511028:user/release-keys",
-                    "redfin-user 11 RQ3A.210905.001 7511028 release-keys",
+                    "google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys",
+                    "redfin-user 11 RQ3A.211001.001 7641976 release-keys",
                     "Redmi", "curtana", "Redmi Note 9 Pro");
         } else if (region == "Japan") {
             set_device_props(
-                    "google/redfin/redfin:11/RQ3A.210905.001/7511028:user/release-keys",
-                    "redfin-user 11 RQ3A.210905.001 7511028 release-keys",
+                    "google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys",
+                    "redfin-user 11 RQ3A.211001.001 7641976 release-keys",
                     "Redmi", "curtana", "Redmi Note 9S");
         }
     } else if (hwname == "excalibur") {
