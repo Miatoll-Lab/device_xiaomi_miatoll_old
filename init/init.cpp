@@ -70,34 +70,34 @@ void load_device_properties() {
     if (hwname == "curtana") {
         if (region == "Global_TWO") {
             set_device_props(
-                    "google/raven/raven:12/SD1A.210817.036/7805805:user/release-keys",
-                    "raven-user 12 SD1A.210817.036 7805805 release-keys",
+                    "google/redfin/redfin:12/SQ1A.211205.008/7888514:user/release-keys",
+                    "redfin-user 12 SQ1A.211205.008 7888514 release-keys",
                     "Redmi", "curtana", "Redmi Note 9S");
         } else if (region == "India") {
             set_device_props(
-                    "google/raven/raven:12/SD1A.210817.036/7805805:user/release-keys",
-                    "raven-user 12 SD1A.210817.036 7805805 release-keys",
+                    "google/redfin/redfin:12/SQ1A.211205.008/7888514:user/release-keys",
+                    "redfin-user 12 SQ1A.211205.008 7888514 release-keys",
                     "Redmi", "curtana", "Redmi Note 9 Pro");
         } else if (region == "Japan") {
             set_device_props(
-                    "google/raven/raven:12/SD1A.210817.036/7805805:user/release-keys",
-                    "raven-user 12 SD1A.210817.036 7805805 release-keys",
+                    "google/redfin/redfin:12/SQ1A.211205.008/7888514:user/release-keys",
+                    "redfin-user 12 SQ1A.211205.008 7888514 release-keys",
                     "Redmi", "curtana", "Redmi Note 9S");
         }
     } else if (hwname == "excalibur") {
         set_device_props(
-                "google/raven/raven:12/SD1A.210817.036/7805805:user/release-keys",
-                "raven-user 12 SD1A.210817.036 7805805 release-keys",
+                "google/redfin/redfin:12/SQ1A.211205.008/7888514:user/release-keys",
+                "redfin-user 12 SQ1A.211205.008 7888514 release-keys",
                 "Redmi", "excalibur", "Redmi Note 9 Pro Max");
     } else if (hwname == "gram") {
         set_device_props(
-                "google/raven/raven:12/SD1A.210817.036/7805805:user/release-keys",
-                "raven-user 12 SD1A.210817.036 7805805 release-keys",
+                "google/redfin/redfin:12/SQ1A.211205.008/7888514:user/release-keys",
+                "redfin-user 12 SQ1A.211205.008 7888514 release-keys",
                 "POCO", "gram", "POCO M2 Pro");
     } else if (hwname == "joyeuse") {
         set_device_props(
-                "google/raven/raven:12/SD1A.210817.036/7805805:user/release-keys",
-                "raven-user 12 SD1A.210817.036 7805805 release-keys",
+                "google/redfin/redfin:12/SQ1A.211205.008/7888514:user/release-keys",
+                "redfin-user 12 SQ1A.211205.008 7888514 release-keys",
                 "Redmi", "joyeuse", "Redmi Note 9 Pro");
     }
 }
